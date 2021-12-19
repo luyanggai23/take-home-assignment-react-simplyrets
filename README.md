@@ -10,4 +10,5 @@
 - Did not have time to handle styling support for mobile.
 - Did not have time to add as many unit tests as I would've liked. I would've leveraged react-testing-library to test services / utilities and components. Would prioritize this normally but with time limit I felt I needed to make sure to get somewhat working solution first.
 - Tried to tamper with using a hooks library for localStorage but had issues so reverted to talking to localStorage directly.
+- Use node version 16.13.1
 <!-- Please document your code & design decisions here. -->
