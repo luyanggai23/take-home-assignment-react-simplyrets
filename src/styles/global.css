@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heart {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
